@@ -1,0 +1,14 @@
+footer{
+    background-color:darkcyan ;
+    padding: 20px;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    bottom: 0px;
+    left: 0px;
+}
+.icon{
+    color : #fff !important ;
+    margin: 10px;
+    font-size: 18px;
+}
